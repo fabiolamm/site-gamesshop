@@ -41,7 +41,7 @@ header nav li a {
 }
 
 .container {
-    max-width: 1000px;
+    max-width: 1280px;
     width: 100%;
     margin: 0 auto;
 }
@@ -98,7 +98,7 @@ section p{
     text-decoration: none;
 }
 
-#container .contact {
+#contact .container {
     display: block;
 }
 
@@ -111,7 +111,7 @@ form input,
 form textarea,
 form button {
     display: block;
-    width: 320px;
+    width: 300px;
     margin-bottom: 8px;
     padding: 8px;
 }
